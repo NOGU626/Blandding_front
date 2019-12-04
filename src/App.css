@@ -22,6 +22,15 @@
 .App-link {
   color: #61dafb;
 }
+.styles-text-comment{
+  font-size: 24;
+  padding-top: 16;
+  margin-bottom: 12;
+  font-weight: 400;
+}
+.sensorGraph{
+  display: inline-block;
+}
 
 @keyframes App-logo-spin {
   from {
